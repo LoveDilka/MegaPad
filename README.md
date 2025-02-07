@@ -1,1 +1,1 @@
-# roblox-get-image-script
+# MegaPad - Camera, Video spoofer made on JavaScript
